@@ -1,0 +1,31 @@
+{
+    "botToken": "5749083150:AAHAR0y2VHIn1bl6mhzR4YixpakcF0glmTU",
+
+    "connectionType": "polling",
+
+    "webhookOptions":{
+        "webhookHost": null,
+        
+        "webhookPort": null,
+        
+        "webhookListen": "0.0.0.0",
+        
+        "sslCertificate": null,
+        
+        "sslPrivateKey": null
+    },
+    
+    "adminId" : "17096116",
+
+    "database": "torrenthunt.sqlite",
+
+    "magnetDatabase": "magnets.sqlite",
+
+    "cache": "cache",
+
+    "cacheTime": 86400,
+
+    "language": "language.json",
+
+    "apiLink": "https://torrents-api.ryukme.repl.co/api"
+}
